@@ -1,6 +1,7 @@
 [
 	{
 		"package": "prqlr",
-		"url": "https://github.com/eitsupi/prqlr"
+		"url": "https://github.com/eitsupi/prqlr",
+		"branch": "v0.0"
 	}
 ]
