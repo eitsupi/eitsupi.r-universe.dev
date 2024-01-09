@@ -1,12 +1,6 @@
 [
 	{
 		"package": "prqlr",
-		"url": "https://github.com/eitsupi/prqlr",
-		"branch": "cross-compile-r-package"
-	},
-	{
-		"package": "polars",
-		"url": "https://github.com/pola-rs/r-polars",
-		"branch": "support-cross-compile"
+		"url": "https://github.com/eitsupi/prqlr"
 	}
 ]
