@@ -2,5 +2,9 @@
 	{
 		"package": "prqlr",
 		"url": "https://github.com/eitsupi/prqlr"
+	},
+	{
+		"package": "glaredb",
+		"url": "https://github.com/eitsupi/r-glaredb"
 	}
 ]
