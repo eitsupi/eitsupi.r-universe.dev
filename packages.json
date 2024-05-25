@@ -5,6 +5,7 @@
 	},
 	{
 		"package": "glaredb",
-		"url": "https://github.com/eitsupi/r-glaredb"
+		"url": "https://github.com/eitsupi/r-glaredb",
+		"branch": "*release"
 	}
 ]
