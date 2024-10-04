@@ -1,9 +1,5 @@
 [
 	{
-		"package": "prqlr",
-		"url": "https://github.com/eitsupi/prqlr"
-	},
-	{
 		"package": "neopolars",
 		"url": "https://github.com/eitsupi/neo-r-polars"
 	},
