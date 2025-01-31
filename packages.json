@@ -4,6 +4,10 @@
 		"url": "https://github.com/eitsupi/neo-r-polars"
 	},
 	{
+		"package": "rbootstraptest",
+		"url": "https://github.com/eitsupi/rbootstraptest"
+	},
+	{
 		"package": "glaredb",
 		"url": "https://github.com/eitsupi/r-glaredb",
 		"branch": "*release"
