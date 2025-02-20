@@ -1,5 +1,11 @@
 [
 	{
+		"package": "arrow",
+		"url": "https://github.com/apache/arrow",
+		"branch": "*release",
+		"subdir": "r"
+	},
+	{
 		"package": "neopolars",
 		"url": "https://github.com/eitsupi/neo-r-polars"
 	},
