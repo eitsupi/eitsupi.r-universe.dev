@@ -8,6 +8,10 @@
 		"url": "https://github.com/eitsupi/rbootstraptest"
 	},
 	{
+		"package": "smvr",
+		"url": "https://github.com/eitsupi/smvr"
+	},
+	{
 		"package": "glaredb",
 		"url": "https://github.com/eitsupi/r-glaredb",
 		"branch": "*release"
