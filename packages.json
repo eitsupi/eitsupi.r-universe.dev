@@ -1,9 +1,5 @@
 [
 	{
-		"package": "polars",
-		"url": "https://github.com/eitsupi/neo-r-polars"
-	},
-	{
 		"package": "rbootstraptest",
 		"url": "https://github.com/eitsupi/rbootstraptest"
 	},
