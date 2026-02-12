@@ -8,6 +8,11 @@
 		"url": "https://github.com/eitsupi/smvr"
 	},
 	{
+		"package": "trigd",
+		"url": "https://github.com/eitsupi/trigd",
+		"subdir": "r-pkg"
+	},
+	{
 		"package": "glaredb",
 		"url": "https://github.com/eitsupi/r-glaredb",
 		"branch": "*release"
